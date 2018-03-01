@@ -1,2 +1,2 @@
 # test-repo
-damo
+This is my demo.
